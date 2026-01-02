@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Green-Thanos&&show_icons=true&theme=tokyonight&line_height=27&v=5" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=johnnyhliang&&show_icons=true&theme=tokyonight&line_height=27&v=5" /> 
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IdleMonster&theme=tokyonight" />
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Thanos&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyhliang&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Green-Thanos&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnnyhliang&theme=tokyonight" />
  </p>
 
-- Unmotivated idiot
+I turn coffee into questionable ideas
 
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
