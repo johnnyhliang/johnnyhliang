@@ -7,10 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyhliang&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnnyhliang&theme=tokyonight" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=johnnyhliang&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
  </p>
 
-I turn coffee into questionable ideas
+I turn caffeine into questionable ideas
 
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
