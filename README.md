@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyhliang&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=johnnyhliang&theme=tokyonight&mode=weekly" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=johnnyhliang&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
  </p>
 
 I turn caffeine into questionable ideas
