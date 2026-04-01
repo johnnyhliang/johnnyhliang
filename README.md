@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johnnyhliang&&show_icons=true&theme=tokyonight&line_height=27&v=5" /> 
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IdleMonster&theme=tokyonight" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyhliang&layout=compact&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=johnnyhliang&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
- </p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=johnnyhliang&theme=tokyonight)
 
 I turn caffeine into questionable ideas
 
