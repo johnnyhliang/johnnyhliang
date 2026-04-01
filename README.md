@@ -16,3 +16,69 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# AI GENERATED
+
+# Fernando
+
+**CS @ University of Michigan · Backend / Infra / ML Systems**
+Building fast things, from kernels to language models.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+---
+
+## About
+
+I'm a systems and backend engineer who gravitates toward the parts of the stack closest to the metal — query engines, ML infrastructure, OS internals. Currently a CS student at **University of Michigan**, targeting backend/infra roles after graduation.
+
+On the side, I'm competing in **OpenAI's Parameter Golf** challenge — training the best possible language model under a 16 MB compressed artifact budget. It's the intersection of ML theory, compression tricks, and sheer stubbornness.
+
+Long-term I want to contribute to **Git** and the **Linux Kernel**. Currently working toward GSoC 2026 with a PostgreSQL concurrency proposal.
+
+---
+
+## Featured Projects
+
+### [`pgolf`](https://github.com/Fernando/pgolf) · Python · `active`
+CLI toolkit for the Parameter Golf competition. Built with Typer + Rich. Manages training runs, model compression, and submission artifacts within a 16 MB budget.
+
+### `SillyQL` · C++ · `active`
+Simplified SQL database engine supporting hash and BST indexing, a custom query parser, and memory-optimized index allocation. Built for EECS 281.
+
+### `Recruiting Dashboard` · React / TypeScript · `shipped`
+AI agent dashboard for job search automation — job discovery, cover letter generation, and application tracking in one place. Includes a standalone URL parser for mixed job board links → CSV export.
+
+### `GSoC 2026 — PostgreSQL` · `in progress`
+Proposal for DBT-5 event-driven concurrency improvements in PostgreSQL. Goal: land a patch and build a long-term open source track record in core database infrastructure.
+
+---
+
+## Stack
+
+| Area | Tools |
+|---|---|
+| Primary langs | C++, Rust, Go |
+| Scripting / ML | Python, PyTorch |
+| Databases | PostgreSQL, custom engines |
+| Training infra | Kaggle T4 → RunPod 8×H100 |
+| Hardware targets | FPGA (DE2-115), CUDA |
+| Frontend | React, TypeScript |
+
+---
+
+## Currently
+
+- Competing in **OpenAI Parameter Golf** — exploring Muon optimizer, QAT, zstd compression
+- Writing a **GSoC 2026 PostgreSQL proposal** on event-driven concurrency
+- Building toward long-term contributions to **Git** and the **Linux Kernel**
+- Finishing EECS 281 — data structures, systems, and lots of C++
+
+---
+
+*jonliang@umich.edu · University of Michigan · open to backend / infra roles*
