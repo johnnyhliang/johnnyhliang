@@ -23,9 +23,7 @@ I turn caffeine into questionable ideas
 
 I'm a systems and backend engineer who gravitates to bare metal :)
 
-    query engines, ML infrastructure, OS internals
-          
-          Currently a CS student at **University of Michigan** - targeting backend/infra/cloud/security internships 
+Currently a CS student at **University of Michigan** - targeting backend/infra/cloud/security internships 
 
 I also didn't bother to make some cool interactive or automatically updating part here so 
 
