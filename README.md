@@ -25,6 +25,4 @@ I'm a systems and backend engineer who gravitates to bare metal :)
 
 Currently a CS student at **University of Michigan** - targeting backend/infra/cloud/security internships 
 
-I also didn't bother to make some cool interactive or automatically updating part here so 
-
 *jonliang@umich.edu · University of Michigan*
