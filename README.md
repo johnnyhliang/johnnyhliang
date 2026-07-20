@@ -21,8 +21,6 @@ I turn caffeine into questionable ideas
 
 ## About
 
-I'm a systems and backend engineer who gravitates to bare metal :)
-
 Currently a CS student at **University of Michigan** - targeting backend/infra/cloud/security internships 
 
 *jonliang@umich.edu · University of Michigan*
